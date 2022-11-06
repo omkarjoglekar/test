@@ -1,4 +1,4 @@
-#learning GIT in VS code
+# learning GIT in VS code
 
 
 - second commit
